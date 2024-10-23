@@ -19,7 +19,7 @@ pipeline {
 
   post {
     always {
-      echo 'Pipeline d_integration continue reussi avec succes'
+      echo 'Pipeline d_integration continue finished'
     }
   }
 }
